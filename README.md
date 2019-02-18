@@ -1,6 +1,6 @@
 # Labpy03
 
-**Latihan1.py**
+# Latihan1.py
 ```python
 import random
 n = input("masukan nilai N:")
@@ -9,19 +9,19 @@ for x in range (1,6):
   print("data ke:",x,"=>",random.uniform(0.0,0.5))
 print("Selesai")
 ```
-*penjelasan algoritma
+* penjelasan algoritma
 
--[x]masukan nilai N=5
+* masukan nilai N=5
 
--[x]gunakan for range, untuk mengulang data
+* gunakan for range, untuk mengulang data
 
--[x]cetak data dan memasukan random.uniform kurang dari 0.5
+* cetak data dan memasukan random.uniform kurang dari 0.5
 
--[x] jika selesai maka RUN
+* jika selesai maka RUN
 
 ![screenshot 35](https://user-images.githubusercontent.com/46512670/52928433-35002100-3372-11e9-82f9-99707e38bd2e.png)
 
-**Latihan02.py**
+# Latihan02.py
 ```python
 max = 0
 while True:
@@ -32,18 +32,18 @@ while True:
 		max=a
 print("Bilangan terbesar adalalah:",max) 
 ```
--[x]masukan max=0
+* masukan max=0
 
--[x]gunakan while True, untuk perulangan tak terbatas, setelah itu masukan bilangan
+* gunakan while True, untuk perulangan tak terbatas, setelah itu masukan bilangan
 
--[x]if jika memasukan angka 0 maka akan berhenti
+* if jika memasukan angka 0 maka akan berhenti
 
--[x]setelah memasukan angka 0 maka otomatis nilai max akan muncul
+* setelah memasukan angka 0 maka otomatis nilai max akan muncul
 
 
 ![screenshot 36](https://user-images.githubusercontent.com/46512670/52928532-ca031a00-3372-11e9-82ad-bded874015a8.png)
 
-**Latihan03.py**
+# Latihan03.py
 ```python
 a = 100000000
 
